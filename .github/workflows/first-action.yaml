@@ -7,4 +7,4 @@ jobs:
       - name: firt step
         run: echo "Hello wolrd"
       - name: goodBy
-        run: echo "done bye"                ¯¯
+        run: echo "done bye"              
