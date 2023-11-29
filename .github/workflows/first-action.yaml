@@ -1,7 +1,7 @@
 name: vishal-worlflow
 on: workflow_dispatch
 jobs:
-  first_job:
+  first-job:
     runs-on: ubuntu-latest
     steps:
       - name: firt step
