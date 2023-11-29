@@ -1,11 +1,12 @@
-name: vishal-worlflow
+name: vishal-workflow
 on: 
   workflow_dispatch:
+  
 jobs:
-  first-job:
+  first_job:
     runs-on: ubuntu-latest
     steps:
-      - name: firt step
-        run: echo "Hello wolrd"
+      - name: first step
+        run: echo "Hello world"
       - name: goodBy
-        run: echo "done bye"              
+        run: echo "done bye"
